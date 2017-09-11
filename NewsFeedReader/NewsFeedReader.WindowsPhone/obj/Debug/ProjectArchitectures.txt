@@ -1,0 +1,1 @@
+C:\Users\v-abdelk\Documents\Visual Studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.WindowsPhone\NewsFeedReader.WindowsPhone.csproj;neutral

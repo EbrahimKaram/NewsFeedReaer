@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>EMYS</Machine>
+    <WindowsUser>EMYS</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>930a0915-1e95-49ba-b485-e775cb9ff727</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>4FCD26D26F0005084ABE00BB161A3BEB2F08597B48234D4262194122DED512FA</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>930a0915-1e95-49ba-b485-e775cb9ff727_1.0.0.0_neutral__nkdk8dcnt4pw8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>930a0915-1e95-49ba-b485-e775cb9ff727_nkdk8dcnt4pw8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>930a0915-1e95-49ba-b485-e775cb9ff727</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=v-abdelk</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-22T14:24:14.230</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\bin\Debug\NewsFeedReader.Windows.exe">
+      <PackagePath>NewsFeedReader.Windows.exe</PackagePath>
+      <Modified>2015-03-22T14:24:08.469</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-02-06T12:35:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-02-06T12:35:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\bin\Debug\PageLink.xbf">
+      <PackagePath>PageLink.xbf</PackagePath>
+      <Modified>2015-02-06T12:38:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\bin\Debug\NewsFeedReader.Windows.xr.xml">
+      <PackagePath>NewsFeedReader.Windows.xr.xml</PackagePath>
+      <Modified>2015-02-06T12:27:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-03-22T14:24:11.486</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

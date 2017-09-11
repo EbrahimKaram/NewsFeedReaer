@@ -1,0 +1,1 @@
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\NewsFeedReader.Windows.csproj;neutral

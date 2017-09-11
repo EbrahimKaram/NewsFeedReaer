@@ -1,0 +1,74 @@
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\bin\Debug\App.xbf
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\bin\Debug\MainPage.xbf
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\bin\Debug\PageLink.xbf
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\bin\Debug\NewsFeedReader.Windows.xr.xml
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\bin\Debug\NewsFeedReader.Windows.exe
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\bin\Debug\NewsFeedReader.Windows.pdb
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\bin\Debug\resources.pri
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\bin\Debug\AppxManifest.xml
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\bin\Debug\NewsFeedReader.Windows.build.appxrecipe
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\App.g.i.cs
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\App.g.cs
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\MainPage.g.i.cs
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\MainPage.g.cs
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\PageLink.g.i.cs
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\PageLink.g.cs
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\XamlTypeInfo.g.cs
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\App.xaml
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\App.xbf
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\XamlSaveStateFile.xml
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\MainPage.xaml
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\PageLink.xaml
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\MainPage.xbf
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\PageLink.xbf
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\NewsFeedReader.Windows.exe
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\NewsFeedReader.Windows.pdb
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\priconfig.xml
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\priconfig.xml.intermediate
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\layout.resfiles
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\layout.resfiles.intermediate
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\resources.resfiles
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\resources.resfiles.intermediate
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\pri.resfiles
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\pri.resfiles.intermediate
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\qualifiers.txt
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\qualifiers.txt.intermediate
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\v-abdelk\documents\visual studio 2013\Projects\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\bin\Debug\App.xbf
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\bin\Debug\MainPage.xbf
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\bin\Debug\PageLink.xbf
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\bin\Debug\NewsFeedReader.Windows.xr.xml
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\bin\Debug\NewsFeedReader.Windows.exe
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\bin\Debug\NewsFeedReader.Windows.pdb
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\bin\Debug\resources.pri
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\bin\Debug\AppxManifest.xml
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\bin\Debug\NewsFeedReader.Windows.build.appxrecipe
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\App.g.i.cs
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\App.g.cs
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\MainPage.g.cs
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\PageLink.g.i.cs
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\PageLink.g.cs
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\App.xaml
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\MainPage.xaml
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\PageLink.xaml
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\App.xbf
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\MainPage.xbf
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\PageLink.xbf
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\NewsFeedReader.Windows.exe
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\NewsFeedReader.Windows.pdb
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\priconfig.xml
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\layout.resfiles
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\resources.resfiles
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\pri.resfiles
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\qualifiers.txt
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ebrah_000\Documents\Ebrahim\MSP\NewsFeedReader\NewsFeedReader\NewsFeedReader.Windows\obj\Debug\ProjectArchitectures.txt
